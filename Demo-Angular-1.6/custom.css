@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+header {
+    float: left;
+    width: 100%;
+    background-color: rgb(20, 10, 112);
+}
+
+header h3 {
+    margin: 20px 0px;
+    color: #fff;
+}
+
+.section1 {
+    float: left;
+    width: 100%;
+    padding: 30px;
+    background-color: rgba(223, 221, 221, 0.534);
+}
+
+.section2 {
+    float: left;
+    width: 100%;
+    padding: 30px;
+    background-color: #cdcdcd;
+}
+
+.SampleForm {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.form-control {}
